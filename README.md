@@ -1,2 +1,2 @@
-# alfred-elasticsearch-reference-search
-Alfred Workflow - Search in Elasticsearch Reference
+# Alfred Workflow - Elasticsearch Reference Search
+Quick search in Elasticsearch Reference
