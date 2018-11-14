@@ -1,7 +1,7 @@
 # Alfred Workflow - Elasticsearch Reference Search
 Quick search in Elasticsearch Reference
 
-## Hot Keys
+## Hot Key
 
 `er`
 
