@@ -13,4 +13,4 @@ Type keywords to search (even you can type elasticsearch version to filter the r
 
 ## Download
 
-[Elasticsearch Reference Search](https://github.com/Thare-Lam/alfred-elasticsearch-reference-search/releases/tag/v1.0.0)
+[Elasticsearch Reference Search](https://github.com/Thare-Lam/alfred-elasticsearch-reference-search/releases)
