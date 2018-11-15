@@ -27,7 +27,7 @@
 	<key>description</key>
 	<string>Quick search in Elasticsearch Reference</string>
 	<key>version</key>
-	<string>v1.0.0</string>
+	<string>1.0.0</string>
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
